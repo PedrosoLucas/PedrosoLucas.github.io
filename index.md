@@ -1,9 +1,3 @@
----
-title:     Prof. Lucas Pedroso
-key:       index
-order:     0
-permalink: /
----
 <html>
   <head>
     <meta charset="UTF-8">
