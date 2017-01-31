@@ -1,5 +1,5 @@
 ---
-title:     Home
+title:     Prof. Lucas Pedroso
 key:       index
 order:     0
 permalink: /
