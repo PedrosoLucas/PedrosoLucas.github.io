@@ -12,8 +12,8 @@ Welcome to my personal page.
 <div class="container">
 <nav class="main-nav">
 <ul>
-<li><a = href="/">Home</a><li>
-<li><a = href="/ensino">Teaching-Ensino</a><li>
+<li><a = href="/">Home</a></li>
+<li><a = href="/ensino">Teaching-Ensino</a></li>
 </ul>
 </nav>
 </div>
