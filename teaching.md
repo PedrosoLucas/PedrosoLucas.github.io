@@ -5,8 +5,7 @@ permalink: /teaching/
 
 # CM041, Cálculo I, Turma B
 
-## Edital de Notas:
-- [Clique aqui](http://pedrosolucas.github.io)
+## [Edital de Notas:](http://pedrosolucas.github.io)
 
 ## Datas das provas (sujeitas a alterações):
 - P1
