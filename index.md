@@ -6,7 +6,7 @@ permalink: /
 ---
 Bem-vindo à minha página pessoal.
 
-Welcome to my personal page.
+Welcome to my personal page2.
 
 <ul>
   <li><a href="default.asp">Home</a></li>
