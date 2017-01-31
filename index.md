@@ -3,6 +3,7 @@ title:     Prof. Lucas Pedroso
 key:       index
 order:     0
 permalink: /
+btn: UUU
 ---
 Bem-vindo à minha página pessoal.
 
