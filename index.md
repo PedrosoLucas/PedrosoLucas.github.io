@@ -5,4 +5,4 @@ lang:      br
 order:     0
 permalink: /
 ---
-Bem-vindo à minha página pessoall.
+Bem-vindo à minha página pessoal.
