@@ -1,5 +1,4 @@
 ---
-header:    Prof. Lucas Pedroso
 title:     Home
 key:       index
 lang:      br
