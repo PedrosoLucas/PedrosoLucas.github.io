@@ -9,8 +9,7 @@ permalink: /about/
 - Bacharel em Matemática Aplicada/Bachelor in Applied Mathematics (2002, Unicamp).
 
 # Curriculum Vitae
-
-## [Lattes](http://lattes.cnpq.br/0906070603571189)
+## [CV Lattes](http://lattes.cnpq.br/0906070603571189)
 
 # Contato/Contact
 - email: lucaspedroso (arroba/at) ufpr (ponto/dot) br
