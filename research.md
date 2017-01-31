@@ -1,8 +1,7 @@
 ---
 title:     Prof. Lucas Pedroso
-key:       teaching
+key:       research
 lang:      br
-order:     1
-permalink: /research
+permalink: /research/
 ---
 Teste
