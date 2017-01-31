@@ -1,10 +1,10 @@
 ---
-title:     Prof. Lucas Pedroso2
+title:     Prof. Lucas Pedroso
 key:       index
 order:     0
 permalink: /
 ---
-Bem-vindo à minha página pessoal3.
+Bem-vindo à minha página pessoal.
 
 Welcome to my personal page.
 
