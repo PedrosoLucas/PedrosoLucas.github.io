@@ -1,7 +1,6 @@
 ---
 title:     Home
 key:       index
-lang:      br
 order:     0
 permalink: /
 ---
