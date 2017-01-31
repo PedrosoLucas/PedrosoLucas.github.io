@@ -8,9 +8,7 @@ permalink: /about/
 - Mestre em Matemática Aplicada/Master in Applied Mathematics (2005, Unicamp. Orientadora/Advisor: M.A. Diniz-Ehrhardt).
 - Bacharel em Matemática Aplicada/Bachelor in Applied Mathematics (2002, Unicamp).
 
-# Curriculum Vitae
-
-## [CV Lattes](http://lattes.cnpq.br/0906070603571189)
+# Curriculum Vitae: [CV Lattes](http://lattes.cnpq.br/0906070603571189)
 
 # Contato/Contact
 - email: lucaspedroso (arroba/at) ufpr (ponto/dot) br
