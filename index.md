@@ -9,6 +9,5 @@ Bem-vindo à minha página pessoal.
 
 Welcome to my personal page.
 
-<a href="#" class="btn">View on GitHub</a>
-<a href="#" class="btn">Download .zip</a>
-<a href="#" class="btn">Download .tar.gz</a>
+<a href="#" class="btn">Page1</a>
+<a href="#" class="btn">Page2</a>
