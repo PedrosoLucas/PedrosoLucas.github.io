@@ -1,9 +1,8 @@
 ---
-title:     Prof. Lucas Pedroso
+title:     Prof. Lucas Pedroso2
 key:       index
 order:     0
 permalink: /
-btn: UUU
 ---
 Bem-vindo à minha página pessoal.
 
