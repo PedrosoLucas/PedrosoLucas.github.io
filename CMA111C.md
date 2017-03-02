@@ -1,5 +1,5 @@
 ---
-title:     CM041 - Turma B
+title:     CM041B e CMA111C
 permalink: /teaching/CMA111C/
 ---
 # 1o Semestre de 2017
