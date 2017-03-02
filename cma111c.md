@@ -1,6 +1,6 @@
 ---
 title:     CM041 - Turma B
-permalink: /teaching/turma1/
+permalink: /teaching/CMA111C/
 ---
 # CM041, Cálculo I, Turma B
 
