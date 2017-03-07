@@ -6,7 +6,8 @@ permalink: /teaching/CMA111C/
 # CM041, Cálculo I, Turma B
 # CMA111, Cálculo 1A, Turma C
 
-## [Edital de Notas](http://pedrosolucas.github.io)
+## [Edital de Notas CM041B](https://docs.google.com/spreadsheets/d/1ldEmgPBoc7Bg1uRp07MVFqlPLb0KE8ivTt52DxW262E/pubhtml?gid=485390942&single=true)
+## [Edital de Notas CMA111C](https://docs.google.com/spreadsheets/d/1ldEmgPBoc7Bg1uRp07MVFqlPLb0KE8ivTt52DxW262E/pubhtml?gid=1531258652&single=true)
 
 ## Datas das provas (sujeitas a alterações):
 - P1: 05/04
