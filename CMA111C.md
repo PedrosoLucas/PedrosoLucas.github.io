@@ -9,6 +9,9 @@ permalink: /teaching/CMA111C/
 ## [Edital de Notas CM041B](https://docs.google.com/spreadsheets/d/1ldEmgPBoc7Bg1uRp07MVFqlPLb0KE8ivTt52DxW262E/pubhtml?gid=485390942&single=true)
 ## [Edital de Notas CMA111C](https://docs.google.com/spreadsheets/d/1ldEmgPBoc7Bg1uRp07MVFqlPLb0KE8ivTt52DxW262E/pubhtml?gid=1531258652&single=true)
 
+## [Horários de Monitoria](/Monitoria.pdf)
+Obs: Tanto a monitoria de CM201 quanto a de CM041 são adequadas a qualquer aluno de Cálculo 1.
+
 ## Datas das provas (sujeitas a alterações):
 - P1: 05/04
 - P2: 17/05
