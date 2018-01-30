@@ -3,10 +3,10 @@ title:     Prof. Lucas Pedroso
 permalink: /teaching/
 ---
 
-# 2o Semestre de 2017
+# 1o Semestre de 2018
 
-## [CM041B e CM047A](./CM047A/)
-### Cálculo I (Matemática Industrial) e Cálculo Diferencial e Integral I (Matemática)
+## [CM041A](./CM041A/)
+### Cálculo I (Engenharia Elétrica)
 
-## [CM045B](./CM045B/)
-### Geometria Analítica I (Engenharia Química)
+## [CM201D](./CM201D/)
+### Cálculo Diferencial e Integral I (Engenharia Civil)
