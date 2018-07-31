@@ -8,7 +8,7 @@ permalink: /teaching/CMA112AD/
 ## [Edital de Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNI9IuZKBmJnrGOZyqIKr-wQ2LsyMGfY6PNG3SEnKZ_A4ZLfeYJ3w7XlTlEWT9nmyC-ajDEqjT1n8I/pubhtml?gid=1531258652&single=true)
 
 ## Horário das aulas:
-- 3as e 5as na PG07.
+- 3as e 5as às 7:30 na PG07.
 
 ## Datas das provas (sujeitas a alterações):
 - P1: 06/09
@@ -21,6 +21,6 @@ permalink: /teaching/CMA112AD/
 M = (P1+P2+P3)/3
 
 ## Bibliografia:
-- G.L. dos Reis e V.V. da Silva, Geometria Analítica, 2a edição, LTC.
+- Livro texto: G.L. dos Reis e V.V. da Silva, Geometria Analítica, 2a edição, LTC.
 - A. Steinbruch e P. Winterle, Geometria Analítica, 2a edição, Makron Books.
 - P. Winterle, Vetores e Geometria Analítica, 2a edição, Pearson.
