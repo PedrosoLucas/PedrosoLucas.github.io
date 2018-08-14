@@ -5,6 +5,8 @@ permalink: /teaching/CMA112AD/
 # 2o Semestre de 2018
 # CMA112, Geometria Analítica, Turma AD
 
+## [Sugestões de Exercícios](https://www.dropbox.com/s/whega10arhf77ot/Lista%20GA.txt?dl=0)
+
 ## [Edital de Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNI9IuZKBmJnrGOZyqIKr-wQ2LsyMGfY6PNG3SEnKZ_A4ZLfeYJ3w7XlTlEWT9nmyC-ajDEqjT1n8I/pubhtml?gid=1531258652&single=true)
 
 ## Horário das aulas:
