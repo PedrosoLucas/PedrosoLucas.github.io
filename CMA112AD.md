@@ -9,6 +9,12 @@ permalink: /teaching/CMA112AD/
 
 ## [Edital de Notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vRNI9IuZKBmJnrGOZyqIKr-wQ2LsyMGfY6PNG3SEnKZ_A4ZLfeYJ3w7XlTlEWT9nmyC-ajDEqjT1n8I/pubhtml?gid=1531258652&single=true)
 
+## Monitorias:
+
+| Segundas | Terças | Quartas | Quintas | Sextas |
+|:-----------------------:|:---------------------------------------------------:|:-----------------------:|:---------------------------------------------------:|:-----------------------:|
+| 12:00-13:30 <br> PC07 | 17:30-19:00 <br> PC07 | 12:00-13:30 <br> PC07 | 17:30-19:00 <br> PC07 | X |
+
 ## Horário das aulas:
 - 3as e 5as às 7:30 na PG07.
 
