@@ -3,10 +3,10 @@ title:     Prof. Lucas Pedroso
 permalink: /teaching/
 ---
 
-# 2o Semestre de 2018
+# 1o Semestre de 2019
 
-## [CM005F](./CM005F/)
-### Álgebra Linear (Engenharia Elétrica)
+## [CM045PA](./CM045PA/)
+### Geometria Analítica (Engenharia de Produção)
 
-## [CMA112AD](./CMA112AD/)
-### Geometria Analítica (Engenharia Mecânica)
+## [CM106AD](./CM106A/)
+### Otimização I (Matemática Industrial)
