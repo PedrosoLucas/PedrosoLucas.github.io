@@ -8,5 +8,5 @@ permalink: /teaching/
 ## [CM045PA](./CM045PA/)
 ### Geometria Analítica (Engenharia de Produção)
 
-## [CM106AD](./CM106A/)
+## [CM106A](./CM106A/)
 ### Otimização I (Matemática Industrial)
